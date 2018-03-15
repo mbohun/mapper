@@ -38,8 +38,5 @@
 /.classpath
 /.project
 /*.iml
-/wrapper
-/grailsw
-/grailsw.bat
 
 .slcache/
